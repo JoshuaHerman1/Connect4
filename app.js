@@ -1,3 +1,4 @@
+// I did this project from scratch without realizing there was starter code, but I learned some new things by doing it this way so I'll take it as a win.
 // Create the game board
 const board = [];
 for (let i = 0; i < 6; i++) {
