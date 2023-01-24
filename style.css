@@ -1,0 +1,23 @@
+table {
+    border-collapse: separate;
+  }
+  td {
+    border: 4px solid navy;
+    width: 90px;
+    height: 90px;
+  }
+  .red {
+    background-color: red;
+  }
+  .yellow {
+    background-color: yellow;
+  }
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo{
+    margin-left: 21.5%;
+}
